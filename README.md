@@ -1,4 +1,4 @@
-# Conversor
+# Tarefas
 
 🇺🇸 A simple To Do app that I created to put in practice what I've learned.
 
